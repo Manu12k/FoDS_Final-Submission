@@ -1,1 +1,1 @@
-Please match the paths to the two datasets in the py file to run the code without any errors. 
+Please match the paths in the py file to the two datasets to run the code without any errors. 
